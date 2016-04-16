@@ -8,4 +8,4 @@ Hello Guys,
 
 This is my personal blogging site.
 
-For more detail please visit my [page]('http://nishantsh.github.io'){_target: blank}
+For more detail please visit my [page]('http://nishantsh.github.io'){target: _blank}
